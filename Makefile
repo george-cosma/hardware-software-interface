@@ -18,6 +18,7 @@ build: buildimg
 	@echo ""
 	@mkdir -p $(OUTPUT_DIR)
 	docker run --rm -v $$PWD/:/content -v $(OUTPUT_DIR):/output $(IMAGE_NAME)
+	@echo "Build complete. Point your browser to http://localhost:8080/$(REPO_NAME)"
 
 serve:
 	@echo "Point your browser to http://localhost:8080/$(REPO_NAME)"
