@@ -83,7 +83,7 @@ docusaurus:
                             - Deleting the First Occurrence of a Pattern from a String/: delete_first/
                             - Pixels/: pixels/
                             - Find Maximum in Array/: find_max/
-                            - Bonus Pointers/: pointers/
+                            - Bonus - Pointers/: pointers/
           - Introduction to GDB:
               path: chapters/memory-layout/introduction-to-GDB/
               subsections:
