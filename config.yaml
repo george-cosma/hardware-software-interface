@@ -91,7 +91,7 @@ docusaurus:
                 - Guides:
                     path: guides/
                     subsections:
-                      - GDB Tutorial Debugging a Segfault/: segfault/
+                      - GDB Tutorial - Debugging a Segfault/: segfault/
                 - Drills:
                     path: drills/
                     subsections:
