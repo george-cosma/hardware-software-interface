@@ -62,6 +62,25 @@ docusaurus:
                           subsections:
                             - Length and Equality with Bitwise Operations/: len-xor/
                             - Mirror/: mirror/
+      - Lab 8 - Working with the Stack:
+          path: chapters/stack/working-with-the-stack/
+          extra:
+            - media/
+          subsections:
+            - Reading:
+                path: reading/
+                subsections:
+                  - Introduction/: intro/ 
+                # - Drills:
+                #     path: drills/
+                #     subsections:
+                #       - Tasks:
+                #           path: tasks/
+                #           subsections:
+                #             - Conversions/: conversions/
+                #             - Rotations/: rotations/
+                #             - Binary Even and Hexadecimal Odd/: odd-even/
+          
     # static_assets:
     #   - template-chapter-template-topic: /build/make_assets/chapters/template-chapter/template-topic/slides/_site
     config_meta:
